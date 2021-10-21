@@ -21,5 +21,5 @@ app.get("/signin/callback", (request, response) => {
 });
 
 app.listen(3333, () => {
-  console.log("server is running on port 3333");
+  console.log("Server is running on port 3333");
 });
